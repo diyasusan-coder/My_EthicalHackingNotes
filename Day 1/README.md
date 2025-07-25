@@ -1,41 +1,60 @@
-✅ Overview of Hacking
-Hacking involves unauthorized access to computer systems or data.
+🔍 1. Understanding Hacking
+Hacking: Unauthorized access to computer systems or data.
 
-Ethical Hacking is the authorized practice of testing systems for vulnerabilities to prevent malicious attacks.
+Ethical Hacking: Authorized testing of systems to identify and fix vulnerabilities before malicious actors exploit them.
 
-✅ Common Types of Cyber Attacks
-1. Man-In-The-Middle (MITM) Attack
-The attacker intercepts and possibly alters the communication between two parties without their knowledge.
+🚨 2. Types of Cyber Attacks
+🔸 1. Man-In-The-Middle (MITM) Attack
+Intercepts communication between two parties without their knowledge.
 
-Purpose: To steal information (e.g., passwords) or manipulate messages.
+Purpose: Eavesdrop, steal credentials, or modify communication.
 
-Example: Eavesdropping on users via unsecured public Wi-Fi networks.
+Example: Capturing data on unsecured public Wi-Fi.
 
-2. Zero-Day Attack
-Targets unknown software or hardware vulnerabilities.
+🔸 2. Zero-Day Attack
+Exploits unknown vulnerabilities before developers are aware.
 
-Key Point: The vulnerability is exploited before the developer is aware—giving them zero days to address the flaw.
+Impact: No time to patch; highly dangerous.
 
-✅ Ethical Hacking Team Roles
-Red Team
+🔸 3. Phishing
+Fraudulent attempts to obtain sensitive information by pretending to be a trustworthy source.
 
-Specializes in offensive tactics.
+Methods: Email, SMS, fake websites.
 
-Simulates real cyberattacks to evaluate an organization’s security.
+Goal: Steal login credentials, credit card info, etc.
 
-Blue Team
+🔸 4. Ransomware
+Malware that encrypts a user’s data and demands payment (ransom) to restore access.
 
-Focuses on defense.
+Impact: Disrupts businesses, risks data loss.
 
-Monitors systems, detects threats, and responds to attacks.
+🔸 5. Malware
+Malicious software designed to damage or gain unauthorized access to systems.
 
-Purple Team
+Types include: Viruses, worms, trojans, spyware, and adware.
 
-Acts as a bridge between Red and Blue Teams.
+🔸 6. Social Engineering
+Manipulating individuals into divulging confidential information.
 
-Enhances collaboration and strengthens overall cybersecurity posture.
+Techniques: Impersonation, pretexting, baiting, or scare tactics.
 
-✅ Popular Ethical Hacking Platform
-Kali Linux:
-A widely-used Linux distribution equipped with numerous tools for penetration testing and ethical hacking practice.
+Focus: Exploits human psychology rather than technical flaws.
 
+🛡️ 3. Ethical Hacking Roles
+🔴 Red Team
+Offensive security experts.
+
+Simulate real-world attacks to expose system vulnerabilities.
+
+🔵 Blue Team
+Defensive team.
+
+Monitors, detects, and defends against cyber threats.
+
+🟣 Purple Team
+Collaboration between Red and Blue Teams.
+
+Enhances coordination for stronger security posture.
+
+🧪 4. Platforms for Ethical Hacking Practice
+Kali Linux: A widely used Linux distribution equipped with a suite of penetration testing and cybersecurity tools.
